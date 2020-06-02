@@ -18,4 +18,4 @@
 
 ## View sample request:
 
-`py crunchyroll.py -url https://www.crunchyroll.com/woodpecker-detectives-office/episode-8-young-man-794898`
+`py __main__.py -url https://www.crunchyroll.com/woodpecker-detectives-office/episode-8-young-man-794898`
