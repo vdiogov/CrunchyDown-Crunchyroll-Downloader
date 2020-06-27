@@ -7,7 +7,6 @@ import json
 from unidecode import unidecode
 import requests
 import time
-import os
 import glob
 
 tag_team = '[CrunchyDown] '
